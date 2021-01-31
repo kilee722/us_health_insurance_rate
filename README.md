@@ -8,7 +8,7 @@ The study will answer
 3. How do health insurance rates vary between smokes and non-smokers?
 
 
-## Data Conversion & Technical Appendix
+## Dataset Conversion & Technical Appendix
 * Dataset Compression Into Parquet File: [csv_to_parquet](https://github.com/kilee722/us_health_insurance_rate/blob/main/csv_to_parquet.ipynb)
 * Technical Appendix File: [Healthcare_appendix.ipynb]()
 
