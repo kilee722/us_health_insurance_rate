@@ -1,4 +1,4 @@
-# us_health_insurance_rate
+# US Health Insurance Rate Analysis
 Exploratory Data Analysis on 38 U.S. states' health insurance rate and analytical Tableau dashboard
 
 ![Image](Slide1.PNG)
