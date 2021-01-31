@@ -9,7 +9,9 @@ From this study, we are searching for the answer for...
 ![Image](Slide2.jpg)
 
 ## Data Load and Preparation
-* Compress csv files into parquet: [csv_to_parquet]()
+* File Compression Into Parquet: [csv_to_parquet](https://github.com/kilee722/us_health_insurance_rate/blob/main/csv_to_parquet.ipynb)
+* Technical Appendix: [Healthcare_appendix.ipynb]()
+
 ##  Exploratory Data Analysis on 38 U.S. states' health insurance rate
 ![Image](Slide1.PNG)
 
