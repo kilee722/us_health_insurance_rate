@@ -1,5 +1,4 @@
 # US Health Insurance Rate Analysis
-Are US Health Insurance Premiums Going Up or Down? How Much Do We Benefit from the Insurance?
 ![Image](Slide2.jpg)
 
 ## Research Questions
