@@ -3,7 +3,7 @@ Are US Health Insurance Premiums Going Up or Down? How Much Do We Benefit from t
 ![Image](Slide2.jpg)
 
 ## Research Questions
-From this study, we are searching for the answer for...
+The study will answer
 1. How do health insurance rates vary across state?
 2. How did health insurance rates change from 2018 to 2020? And how did Covid-19 impact on US health insurance market?
 3. How do health insurance rates vary between smokes and non-smokers?
