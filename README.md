@@ -26,6 +26,13 @@ The study will answer
 
 [Interative Dashboard Link](https://public.tableau.com/views/Health_Rate_Dashboard_Complete/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
+## Project Outcome
+* Insurance rate varies by state, the west coast has a higher insurance rate in general
+* The variance of insurance between smoker and non-smoker significantly increased age after 45 
+* The average insurance rate increased by 0.7% from 2018 to 2019, the average insurance rate increased by 14.8% from 2019 to 2020 (COVID-19 impact on the market)
+* The most significant influencing factors of the insurance rate - **Age, Smoker/Non-smoker, Location (State)**
+* Dental care is the most common benefit of the insurance plan
+
 ## Technology
 * Python
   * pandas
