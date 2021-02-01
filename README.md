@@ -1,5 +1,4 @@
 # US Health Insurance Rate Analysis
-![Image](Slide4.jpeg)
 
 ## Research Questions
 The study will answer
