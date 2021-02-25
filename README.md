@@ -4,7 +4,7 @@
 The study will answer
 1. How do health insurance rates vary across state?
 2. How did health insurance rates change from 2018 to 2020? And how did Covid-19 impact on US health insurance market?
-3. How do health insurance rates vary between smokes and non-smokers?
+3. How do health insurance rates vary between smokers and non-smokers?
 
 
 ## Dataset Conversion & Technical Appendix
