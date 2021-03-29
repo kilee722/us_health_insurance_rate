@@ -14,7 +14,7 @@ The study will answer
 ##  Exploratory Data Analysis on 38 U.S. states' health insurance rate
 ![Image](Slide1.PNG)
 
-1. The monthly individual health insurance rates slightly increased over years with a significant growth in the  rate from **2019 to 2020** by **14.8%**
+1. Monthly individual health insurance rates slightly increased over years with a significant growth in the  rate from **2019 to 2020** by **14.8%**
 2. Insurance rate and variance of rate between smoker and non-smoker increase over the age. From the **age over 45**, the variance of insurance between smoker and non-smoker significantly increased
 3. The most common benefit in the U.S. is **Dental Care**
 
